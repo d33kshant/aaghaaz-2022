@@ -1,4 +1,9 @@
 :root {
+
+	/* Font Families */
+	--font-manrope: 'Manrope';
+	--font-sans: 'Open Sans';
+
 	/* Font Sizes */
 	--text-md: 1em;
 	--text-sm: .9em;
