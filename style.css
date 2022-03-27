@@ -1,0 +1,22 @@
+:root {
+	/* Font Sizes */
+	--text-md: 1em;
+	--text-sm: .9em;
+	--text-lg: 1.2em;
+
+	/* Font weights */
+	--font-bold: 700;
+	--font-semi-bold: 600;
+	--font-regular: 500;
+
+	/* Spacing */
+	--space-md: 16px;
+	--space-sm: 8px;
+	--space-lg: 32px;
+
+	/* Colors */
+	--blue: #3381F6;
+	--gray: #707070;
+
+	--primary-gradient: -webkit-linear-gradient(-70deg, #9867f0 0%, #ed4e50 100%);
+}
