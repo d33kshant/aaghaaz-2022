@@ -78,7 +78,7 @@ section {
 }
 
 .main-section-actions a {
-	border: 2px solid var(--blue);
+	border: 1px solid var(--blue);
 	border-radius: var(--space-xsm);
 	padding: var(--space-xsm) var(--space-md);
 	background: var(--blue);
@@ -89,7 +89,6 @@ section {
 .main-action-events {
 	background: white !important;
 	color: var(--blue) !important;
-	font-weight: var(--font-semi-bold);
 }
 
 .event-categories {
